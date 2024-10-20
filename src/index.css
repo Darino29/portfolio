@@ -1,0 +1,24 @@
+/* index.css */
+.chakra-ui-light {
+  background-color: black !important; /* Remplacer le fond de cette classe */
+  color: white !important; /* Couleur du texte */
+}
+
+
+.skill-card {
+  transition: transform 0.2s;
+}
+
+.skill-card:hover {
+  transform: scale(1.05);
+  background-color: #009e66;
+}
+
+
+.project-card {
+  transition: transform 0.2s;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
